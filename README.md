@@ -10,7 +10,7 @@ My experience as a Technical Support Analyst sparked my interest in cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis honeypot lab         | <a href=">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href=">Detection Lab</a>|
 
 
 ## Tools
