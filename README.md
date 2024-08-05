@@ -1,5 +1,5 @@
 # Hello, I'm Will Phillips
-<a href="https://linkedin.com/in/william-phillips12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a
+<a href="https://linkedin.com/in/william-phillips12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 I am currently persuing a degree in Cyber Security and actively working on labs/projects in my free time.
 
