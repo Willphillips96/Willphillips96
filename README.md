@@ -1,10 +1,10 @@
 # Hello, I'm Will Phillips
 <a href="https://linkedin.com/in/william-phillips12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-I am currently persuing a degree in Cyber Security and actively working on labs/projects in my free time.
+I am currently persuing a Bachelors Degree in Cyber Security and actively working on labs/projects in my free time.
 
 ## Objective
-My experience as a Technical Support Analyst sparked my interest in cybersecurity, specifically in certain cases helping the secuity team safeguard company assets with various tools. Since then, I've been enthusiastic about transitioning into this field and am now focused on pursuing a Tier 1 Analyst role in a Security Operations Center (SOC).
+My experience as a Technical Support Analyst sparked my interest in Cyber Security, specifically in certain cases helping the secuity team safeguard company assets with various tools. Since then, I've been enthusiastic about transitioning into this field and am now focused on pursuing a Tier 1 Analyst role in a Security Operations Center (SOC).
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
