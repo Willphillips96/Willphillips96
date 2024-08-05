@@ -6,7 +6,6 @@ I am currently persuing a Bachelors Degree in Cyber Security and actively workin
 ## Objective
 My experience as a Technical Support Analyst sparked my interest in Cyber Security, specifically in certain cases helping the secuity team safeguard company assets with various tools. Since then, I've been enthusiastic about transitioning into this field and am now focused on pursuing a Tier 1 Analyst role in a Security Operations Center (SOC).
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
