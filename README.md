@@ -10,7 +10,7 @@ My experience as a Technical Support Analyst sparked my interest in cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href=">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Willphillips96/Azure-SIEM-Honeypot-Lab">Geolocating Adversaries Using SIEM/Logs from VM login Attempts</a>|
 
 
 ## Tools
@@ -41,4 +41,4 @@ My experience as a Technical Support Analyst sparked my interest in cybersecurit
 </div>
 
 ## Projects
-- Azure Honeypot VM with log analytics collection and geolocation
+- <a href="https://github.com/Willphillips96/Azure-SIEM-Honeypot-Lab">Geolocating Adversaries Using SIEM/Logs from VM login Attempts</a>
