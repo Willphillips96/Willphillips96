@@ -13,7 +13,7 @@ My experience as a Technical Support Analyst sparked my interest in Cyber Securi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Willphillips96/Azure-SIEM-Honeypot-Lab">Geolocating Adversaries Using SIEM/Logs from VM login Attempts</a>|
-| Phishing Analysis and Remediation      | SOC Automation Lab|
+| Phishing Analysis and Remediation      | <a href="https://github.com/Willphillips96/Phishing-Analysis-and-Email-Forensics-Lab">Phishing Analysis/Remediation and Email Forensics Lab</a>||
 
 ## Tools
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
@@ -44,3 +44,4 @@ My experience as a Technical Support Analyst sparked my interest in Cyber Securi
 
 ## Projects
 - <a href="https://github.com/Willphillips96/Azure-SIEM-Honeypot-Lab">Geolocating Adversaries Using SIEM/Logs from VM login Attempts</a>
+- <a href="https://github.com/Willphillips96/Phishing-Analysis-and-Email-Forensics-Lab">Phishing Analysis/Remediation and Email Forensics Lab</a>
