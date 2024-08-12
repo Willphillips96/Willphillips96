@@ -18,6 +18,9 @@ My experience as a Technical Support Analyst sparked my interest in Cyber Securi
 ## Tools
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 
+## Vulnerability Assesment
+![Nessus](https://img.shields.io/badge/-Nessus-yellow?style=for-the-badge&logo=Nessus&logoColor=white)
+
 ### Network
 <div>
     <img src="" />
