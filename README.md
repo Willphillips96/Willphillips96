@@ -14,7 +14,7 @@ My experience as a Technical Support Analyst sparked my interest in Cyber Securi
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Willphillips96/Azure-SIEM-Honeypot-Lab">Geolocating Adversaries Using SIEM/Logs from VM login Attempts</a>|
 | Phishing Analysis and Remediation      | <a href="https://github.com/Willphillips96/Phishing-Analysis-and-Email-Forensics-Lab">Phishing Analysis/Remediation and Email Forensics Lab</a>||
-| Nessus vulnerability Scanner | <a href="https://github.com/Willphillips96/Home-SIEM-Lab/blob/main/README.md">Vulnerability Scanning And Remediation Lab|
+| Nessus Vulnerability Scanner | <a href="https://github.com/Willphillips96/Home-SIEM-Lab/blob/main/README.md">Vulnerability Scanning And Remediation Lab|
 
 
 ## Tools
