@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Will Phillips
+# Hi there 👋, I'm Will Phillips, 
+### Aspiring Cyber Security Analyst, Student, USAF Veteran</span>
+
+
 <a href="https://linkedin.com/in/william-phillips12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 ## About Me
 I'm currently pursuing a Bachelor's Degree in Cyber Security, dedicating my free time to working on labs and projects that deepen my understanding and skills in this ever-evolving field. My passion for IT, especially cyber security, drives me to continuously seek new knowledge and hands-on experience.
