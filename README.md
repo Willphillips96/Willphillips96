@@ -37,8 +37,7 @@ My experience as a Technical Support Analyst sparked my interest in Cyber Securi
 ## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="" />
-</div>
+
 
 ## SIEM
 <div>
