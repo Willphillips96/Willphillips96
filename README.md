@@ -31,9 +31,7 @@ My experience as a Technical Support Analyst sparked my interest in Cyber Securi
 
 ### Network
 <div>
-    <img src="" />
-    <img src="" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### Endpoint
